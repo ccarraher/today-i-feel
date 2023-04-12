@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "35102127-dbc0-4ebf-86ba-892a9670737d"
+      }
+    },
+    "owner": "ccarraher"
   }
 }
